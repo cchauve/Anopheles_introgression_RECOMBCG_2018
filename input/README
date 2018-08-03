@@ -1,0 +1,7 @@
+ORTHOGROUPS_ODB9: file describing the genes used as starting input data of the experiments, grouped into orthogroups (gene families).
+
+MrBayes_ALE_summary.txt: summary of the experiments consisting in sampling tree with MrBayes and amalgamating them with ALE.
+
+ALE_1000_HGT_001: summary of all HGTs inferred from samplkes reconciled gene trees, with all HGT with sampling frequency below 1% have been filtered out.
+
+MaxTiC_XX = results obtained with MaxTiC when appiled to the HGTs with frequency >= XX%
